@@ -1,7 +1,8 @@
 #linkedin button authentication. On clicking the button, it redirect to the link_auth function.
-CLIENT_ID = "75imip4ztzzdw3"
-CLIENT_SECRET = "RYwtNa3BxzzRyQDJ"
-REDIRECT_URI = "http://arcane-lake-8508.herokuapp.com/linkedin_callback"
+#go to linkedin developer network and get the required credentials
+# CLIENT_ID = 
+# CLIENT_SECRET = 
+# REDIRECT_URI = 
 
 from flask import Flask
 from flask import render_template
