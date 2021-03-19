@@ -1,6 +1,6 @@
 Django==1.6.5
 Flask==0.10.1
-Jinja2==2.7.2
+Jinja2==2.11.3
 Werkzeug==0.9.4
 gunicorn==19.0.0
 prettytable==0.7.2
