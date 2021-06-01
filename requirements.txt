@@ -11,7 +11,7 @@ python-openid==2.2.5
 requests==2.2.1
 requests-oauthlib==0.4.1
 simplejson==3.5.2
-urllib3==1.8.2
+urllib3==1.26.5
 uuid==1.30
 vcstools==0.1.33
 virtualenv==1.11.2
